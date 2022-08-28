@@ -9,6 +9,9 @@ __pycache__/
 # Idea / Pycharm
 .idea/
 
+# Credentials file
+credentials.py
+
 # Distribution / packaging
 .Python
 build/
